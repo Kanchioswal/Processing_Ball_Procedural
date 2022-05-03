@@ -3,9 +3,9 @@ import processing.core.PApplet;
 public class TryProcessing extends PApplet{
 
 
-    public static final int WIDTH = 640;
-    public static final int HEIGHT = 480;
-    public static final int DIAMETER=20;
+    private static final int WIDTH = 640;
+    private static final int HEIGHT = 480;
+    private static final int DIAMETER=20;
     int x2=0,x3=0,x4=0;
     int x1=0;
     public static void main(String[] args) {
